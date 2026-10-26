@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Virtual Showroom demo | XRXES</title><meta name="description" content="Walk through a 3D lingerie boutique in your browser, a demo of the XRXES Virtual Showroom with the PantiesOn catalog.">
+<link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="/style.css?v=2"></head>
+<body class="sr">
+<header id="bar" class="srbar"><a class="brand" href="/">XR<b>XES</b></a><span class="srt">Virtual Showroom <small>demo with PantiesOn</small></span>
+<button type="button" id="tour" class="pillbtn">Guided tour ›</button><button type="button" id="listbtn" class="pillbtn" aria-expanded="false" aria-controls="list">List view</button></header>
+<main class="stage"><canvas id="scene" aria-label="3D showroom. Use the list view for a text version of every product."></canvas>
+<p id="loading" class="loading">Opening the showroom…</p>
+<p class="hint">Drag to look around · scroll or pinch to zoom · click a product</p>
+<aside id="card" class="card" hidden aria-live="polite"></aside>
+<section id="list" class="list" hidden aria-label="All products"><h1>All products</h1><p>The same products as the 3D showroom, as a plain list.</p><ul></ul></section>
+<noscript><p class="loading">The 3D showroom needs JavaScript. <a href="/">Back to XRXES</a></p></noscript>
+</main>
+<script type="module" src="showroom.js?v=2"></script>
+</body></html>

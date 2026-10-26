@@ -1,0 +1,240 @@
+{
+ "store": "PantiesOn",
+ "base": "https://pantieson.com",
+ "ref": "XRXES",
+ "products": [
+  {
+   "slug": "chantilly-lace-bralette",
+   "title": "Chantilly Lace Bralette",
+   "brand": "Maison Velours",
+   "category": "Bras",
+   "price": 4800,
+   "swatch": "#c9a0a6",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "Blush",
+    "Noir"
+   ],
+   "description": "Soft, unlined bralette in French-style Chantilly lace with a scalloped edge and adjustable straps."
+  },
+  {
+   "slug": "chantilly-lace-high-waist-brief",
+   "title": "Chantilly Lace High-Waist Brief",
+   "brand": "Maison Velours",
+   "category": "Panties",
+   "price": 2800,
+   "swatch": "#d8b4b8",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "Blush",
+    "Noir"
+   ],
+   "description": "The matching high-waist brief, with a cotton gusset and lace panels that lie flat under clothes."
+  },
+  {
+   "slug": "silk-charmeuse-slip",
+   "title": "Silk Charmeuse Slip",
+   "brand": "Lumen Lace",
+   "category": "Sleepwear",
+   "price": 9800,
+   "swatch": "#8e6f8c",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "Plum",
+    "Champagne"
+   ],
+   "description": "Bias-cut silk charmeuse slip with a cowl neck and fine adjustable straps. Hand wash cold."
+  },
+  {
+   "slug": "everyday-modal-thong-3-pack",
+   "title": "Everyday Modal Thong, 3 Pack",
+   "brand": "Nuit Blanche",
+   "category": "Panties",
+   "price": 3200,
+   "swatch": "#b9b2a7",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "Neutrals",
+    "Black"
+   ],
+   "description": "Smooth, breathable modal thongs with no visible lines. A daily essential."
+  },
+  {
+   "slug": "balconette-bra-in-tulle",
+   "title": "Balconette Bra in Tulle",
+   "brand": "Lumen Lace",
+   "category": "Bras",
+   "price": 6400,
+   "swatch": "#a4426b",
+   "sizes": [
+    "32B",
+    "34B",
+    "34C",
+    "36C",
+    "36D"
+   ],
+   "colors": [
+    "Raspberry",
+    "Ivory"
+   ],
+   "description": "Underwired balconette in sheer embroidered tulle with a lifted, rounded shape."
+  },
+  {
+   "slug": "satin-bow-garter-belt",
+   "title": "Satin Bow Garter Belt",
+   "brand": "Maison Velours",
+   "category": "Accessories",
+   "price": 3600,
+   "swatch": "#5a2b3c",
+   "sizes": [
+    "S/M",
+    "L/XL"
+   ],
+   "colors": [
+    "Bordeaux",
+    "Noir"
+   ],
+   "description": "Satin garter belt with four adjustable straps and a hand-tied bow at the front."
+  },
+  {
+   "slug": "cotton-rib-boyshort",
+   "title": "Cotton Rib Boyshort",
+   "brand": "Nuit Blanche",
+   "category": "Panties",
+   "price": 1800,
+   "swatch": "#e2d6c8",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "Oat",
+    "Heather Grey"
+   ],
+   "description": "Stretch cotton rib boyshort with full coverage. Soft enough to sleep in."
+  },
+  {
+   "slug": "velvet-robe",
+   "title": "Velvet Robe",
+   "brand": "Lumen Lace",
+   "category": "Sleepwear",
+   "price": 12800,
+   "swatch": "#2f3e5c",
+   "sizes": [
+    "S/M",
+    "L/XL"
+   ],
+   "colors": [
+    "Midnight",
+    "Emerald"
+   ],
+   "description": "Knee-length stretch velvet robe with a satin-lined shawl collar and a tie belt."
+  },
+  {
+   "slug": "mesh-bodysuit",
+   "title": "Mesh Bodysuit",
+   "brand": "Maison Velours",
+   "category": "Bodysuits",
+   "price": 7200,
+   "swatch": "#3a3034",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "Noir",
+    "Nude"
+   ],
+   "description": "Sheer stretch mesh bodysuit with a plunge neckline and snap closure. Layer it or wear it alone."
+  },
+  {
+   "slug": "seamless-bralette",
+   "title": "Seamless Bralette",
+   "brand": "Nuit Blanche",
+   "category": "Bras",
+   "price": 2600,
+   "swatch": "#cbbfb4",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "Sand",
+    "Black"
+   ],
+   "description": "Wire-free seamless bralette with removable pads. Comfort first."
+  },
+  {
+   "slug": "gift-box-lace-set-and-silk-scrunchie",
+   "title": "Gift Box: Lace Set and Silk Scrunchie",
+   "brand": "Maison Velours",
+   "category": "Gift Sets",
+   "price": 8800,
+   "swatch": "#e4b9c2",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "Blush"
+   ],
+   "description": "The Chantilly bralette and brief in a ribboned gift box, with a silk scrunchie and a handwritten card."
+  },
+  {
+   "slug": "lace-trim-pajama-set",
+   "title": "Lace Trim Pajama Set",
+   "brand": "Lumen Lace",
+   "category": "Sleepwear",
+   "price": 8600,
+   "swatch": "#9fb3c8",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "Dusk Blue",
+    "Ivory"
+   ],
+   "description": "Washable satin camisole and shorts trimmed with soft lace."
+  }
+ ]
+}
